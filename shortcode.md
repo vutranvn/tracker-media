@@ -1,0 +1,53 @@
+### List short code variable
+- a: function proccess for vimeo player 
+- b: arrayList alias name video, audio
+- c: variable function(get, set attribute, get media resource, media ignore, get media title, is full screen)
+- d: register, get, remove, scan Player
+- e: function log & debug
+- f: function proccess for html5 player
+- g: init piwikMediaAnalyticsAsyncInit()
+- h: function init getAsyncTrackers() if not yet
+- i: flag true
+- j: flag false
+- k: scan media
+- l: enable, disable TrackEvents, TrackProgress 
+- m: function return typeOf is object and length is number
+- n: const variable = 5
+- o: function proccess for youtube player
+- p: flat null
+- q: date time
+- r: variable function about location(get, set, make url)
+- s: config options for MediaAnalytics
+- t: variable function about time(current time, unique key,...)
+- u: flag true
+- v: function set player name, type, resource & reset data prepare send tracking
+- w
+- x
+- y
+- z
+- A
+- B
+- C
+- D 
+- E
+- F
+- G 
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
